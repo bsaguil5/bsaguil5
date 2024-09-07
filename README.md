@@ -1,4 +1,4 @@
-<h1> Brandon Saugil <br/> </h1>
+<h1> Brandon Saguil <br/> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
