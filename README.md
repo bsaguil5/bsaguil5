@@ -1,19 +1,15 @@
-<h1> Brandon Saguil <br/> </h1>
+# Brandon Saguil
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## Fun Coding Projects:
 
+### [Fitness-Tracker](https://github.com/bsaguil5/fitness-tracker)
+- A Java-based application for tracking personal records and workout progress.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Matthew Mod](https://github.com/bsaguil5/MatthewMod)
+- A Minecraft mod where the entity "Matthew" follows and protects the player.
+- Has fighting capabilities such as "enragedmode"
+- Able to send a command through menu.
 
-Here are some ideas to get you started:
+### [Trie](https://github.com/your-username/Trie)
+- A Minecraft mod integrating an entity named Ben with Baritone's pathfinding system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
