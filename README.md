@@ -1,4 +1,4 @@
-# Hello, I'm Brandon Saguil! I use computer programming to cater to my many random interests!
+# Hello, I'm Brandon! I use computer programming to help me with many of my interests!
 
 ## Fun Coding Projects that I've done (still more to add):
 
