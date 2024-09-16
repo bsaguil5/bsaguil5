@@ -11,5 +11,5 @@
 - Able to send a command through menu.
 
 ### [Trie](https://github.com/your-username/Trie)
-- A Minecraft mod integrating an entity named Ben with Baritone's pathfinding system.
+- In our Advanced Discrete Structures class at the university of Dallas, I created a Trie class from scratch!
 
