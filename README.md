@@ -1,11 +1,11 @@
-# Brandon Saguil
+# Hello, I'm Brandon Saguil! I use computer programming to cater to my many random interests!
 
-## Fun Coding Projects:
+## Fun Coding Projects that I've done (still more to add):
 
-### [Fitness-Tracker](https://github.com/bsaguil5/fitness-tracker)
+### 💪💪[Fitness-Tracker](https://github.com/bsaguil5/fitness-tracker)💪💪
 - A Java-based application for tracking personal records and workout progress.
 
-### [Matthew Mod](https://github.com/bsaguil5/MatthewMod)
+### ⛏️[Matthew Mod](https://github.com/bsaguil5/MatthewMod)⛏️
 - A Minecraft mod where the entity "Matthew" follows and protects the player.
 - Has fighting capabilities such as "enragedmode"
 - Able to send a command through menu.
